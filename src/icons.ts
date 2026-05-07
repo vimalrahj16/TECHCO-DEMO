@@ -1,0 +1,30 @@
+import { LayoutDashboard, Calendar, Users, Briefcase, MessageSquare, Plus, Settings, HelpCircle, Search, Bell, ChevronRight, Palette, Code, Music, Trophy, Activity, MessageCircle, MoreVertical, Mail, CheckCircle2, AlertCircle, TrendingUp, History, ListFilter, Pencil } from 'lucide-react';
+
+export {
+  LayoutDashboard,
+  Calendar,
+  Users,
+  Briefcase,
+  MessageSquare,
+  Plus,
+  Settings,
+  HelpCircle,
+  Search,
+  Bell,
+  ChevronRight,
+  Palette,
+  Code,
+  Music,
+  Trophy as Fitness,
+  Activity,
+  MessageCircle,
+  MoreVertical,
+  Mail,
+  CheckCircle2,
+  AlertCircle,
+  TrendingUp,
+  History,
+  MessageCircle as WhatsAppIcon,
+  ListFilter as Filter,
+  Pencil as Edit
+};
